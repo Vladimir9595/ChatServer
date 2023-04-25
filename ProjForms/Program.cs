@@ -2,6 +2,11 @@ namespace ProjForms
 {
     internal static class Program
     {
+        internal static void Main(string[] strings)
+        {
+            throw new NotImplementedException();
+        }
+
         /// <summary>
         ///  The main entry point for the application.
         /// </summary>
